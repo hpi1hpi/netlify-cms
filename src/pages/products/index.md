@@ -1,5 +1,5 @@
 ---
-heading: Great coffee with a conscience
+heading: Great coffee with a
 path: /products
 templateKey: product-page
 title: Coffee
